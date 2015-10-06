@@ -1,0 +1,53 @@
+/* style.css */
+body{
+  margin: 0px;
+  color: rgb(20,20,20);
+  background: rgb(245,245,245);
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1{
+  font-family: 'Lobster', cursive;
+  color: rgb(212,57,43);
+}
+
+p{
+  font-size: px;
+  line-height: 20px;
+  font-weight: 300px;
+}
+
+#my-header{
+    text-align: center;
+    background-image: url("http://lorempixel.com/1300/600/fashion");
+     background-size: cover;
+    padding: 150px;
+    color: white;
+    text-shadow: 1px 1px 5px black;
+}
+
+.feature{
+  padding: 50px;
+  font-weight: 300px;
+}
+
+.feature img{
+  border-radius: 50%;
+  border: 2px solid black;
+  padding: 10px;
+}
+
+#my-footer{
+  padding: 30px;
+  background: rgb(30, 30, 30);
+  color: lightgrey;
+}
+
+#my-footer a {
+  color: lightgrey;
+  font-size:30px;
+}
+
+#my-footer a:hover{
+  color: white;
+}
